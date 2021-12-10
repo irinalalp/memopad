@@ -2,7 +2,6 @@ package memopad.memo.model;
 
 
 import javax.persistence.*;
-import javax.websocket.ClientEndpoint;
 import java.util.Date;
 
 @Entity
